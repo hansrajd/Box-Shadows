@@ -39,11 +39,11 @@ Handpicked Box-Shadows for Developers and Designers
 
 ## Method 2. (Fork)
 
-### Note :
+### Note:
 #### Before contributing to this project please read the ISSUE and then start to contribute for that issue.
 
 
-# Instructions :
+# Instructions:
 ### 1. Fork this Repository
 ###### fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
