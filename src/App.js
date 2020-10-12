@@ -4,10 +4,10 @@ import { CopyToClipboard } from "react-copy-to-clipboard";
 import Color from "color";
 import githubIcon from './assets/github_icon.png'
 
-//Module Imports
+// Module Imports
 import "./App.css";
 
-//Data Imports
+// Data Imports
 import backgroundColors from "./backgrounds";
 import shadows from "./shadows";
 import PageFooter from "./components/PageFooter/PageFooter";
